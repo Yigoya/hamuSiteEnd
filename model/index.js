@@ -6,7 +6,7 @@ const pool = mysql.createPool({
     host:process.env.HOST,
     user:process.env.USER,
     password:process.env.PASSWORD,
-    database : 'ecommerce'
+    database : 'bsmbetm80kktagsa7iys'
 }).promise()
 // await pool.query('CREATE DATABASE shoping')
 // await pool.query('use shoping')
